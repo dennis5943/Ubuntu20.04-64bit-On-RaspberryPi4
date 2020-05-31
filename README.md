@@ -7,7 +7,7 @@
 
 <h2>2.將Image 燒至SD Card</h2>
 
-可使用balenaEtcher工具，三步完成 (https://www.balena.io/etcher/)
+可使用balenaEtcher工具，三步完成 [官網連結](https://www.balena.io/etcher/)
 
 <h2>3.第一次登入</h2>
 
