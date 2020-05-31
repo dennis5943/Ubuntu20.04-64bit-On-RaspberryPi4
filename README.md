@@ -49,5 +49,5 @@
 
 [參考網址](https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart)
 
-<pre><code>adduser pi
+<pre><code>adduser [user name]
 usermod -aG sudo username</code></pre>
