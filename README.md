@@ -1,4 +1,4 @@
-# Ubuntu20.04-64bit-On-RaspberryP4
+# Ubuntu20.04-64bit installation on Raspberry Pi 4
 在樹苺派上安裝Ubuntu20.04 Server
 
 <h2>1.下載Ubuntu20.04 Image</h2>
