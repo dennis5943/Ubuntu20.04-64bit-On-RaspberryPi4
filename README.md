@@ -19,7 +19,7 @@
   
   設定檔會放在本機的/etc/netplan/ 路徑
   
-  sudoedit /etc/netplan/50-cloud-init.yaml
+  <pre><code>sudo nano /etc/netplan/50-cloud-init.yaml</code></pre>
   
   修改成這樣
   
