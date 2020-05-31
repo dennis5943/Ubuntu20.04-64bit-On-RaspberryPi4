@@ -13,7 +13,7 @@
 
 用UserName: ubuntu ; Password: ubuntu第一次登入，並修改密碼
 
-<h2>4.設定wifi</h2>
+<h2>(Option)設定wifi</h2>
 
 可參照[此篇](https://linuxconfig.org/ubuntu-20-04-connect-to-wifi-from-command-line)
   
@@ -45,7 +45,7 @@
    $ sudo netplan --debug apply
    </code></pre>
 
-<h2>新增使用者</h2>
+<h2>(Option)新增使用者</h2>
 
 [參考網址](https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart)
 
