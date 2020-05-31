@@ -44,3 +44,7 @@
    <pre><code>
    $ sudo netplan --debug apply
    </code></pre>
+
+<h2>新增使用者</h2>
+<pre><code>adduser pi
+usermod -aG sudo username</code></pre>
