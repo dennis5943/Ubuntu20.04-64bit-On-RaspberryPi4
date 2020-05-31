@@ -3,7 +3,7 @@
 
 <h2>1.下載Ubuntu20.04 Image</h2>
 
-官網下載 (https://ubuntu.com/download/raspberry-pi)
+[官網下載](https://ubuntu.com/download/raspberry-pi)
 
 <h2>2.將Image 燒至SD Card</h2>
 
@@ -15,7 +15,7 @@
 
 <h2>4.設定wifi</h2>
 
-可參造此篇(https://linuxconfig.org/ubuntu-20-04-connect-to-wifi-from-command-line)
+可參照[此篇](https://linuxconfig.org/ubuntu-20-04-connect-to-wifi-from-command-line)
   
   設定檔會放在本機的/etc/netplan/ 路徑
   
@@ -46,5 +46,8 @@
    </code></pre>
 
 <h2>新增使用者</h2>
+
+[參考網址](https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart)
+
 <pre><code>adduser pi
 usermod -aG sudo username</code></pre>
