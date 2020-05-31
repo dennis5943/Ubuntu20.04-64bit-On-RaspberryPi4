@@ -23,8 +23,7 @@
   
   修改成這樣
   
-  <pre><code>This is a code block.
-
+  <pre><code>
   network:
     ethernets:
         eth0:
